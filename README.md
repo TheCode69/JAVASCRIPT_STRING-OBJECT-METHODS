@@ -6,4 +6,5 @@ in the above codes i have used the following methods:
                the first element becomes the last, the second element becomes the second to last, and so on.
    
 3. join()     - The join() method in JavaScript is used to join the elements of an array into a string. It takes an array and concatenates its elements into a single string. 
-4. .toString  - In JavaScript, the toString() method is a built-in method that can be used on objects to convert them to a string representation.
+4. .toString() - In JavaScript, the toString() method is a built-in method that can be used on objects to convert them to a string representation.
+5. parseInt()  - In JavaScript, the parseInt() function is used to parse a string and convert it into an integer
